@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="sampletable" language="en" table="x_356615_sampleapp_sampletable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>sampletable</label>
+            <language>en</language>
+            <name>x_356615_sampleapp_sampletable</name>
+            <plural>sampletables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-25 08:31:53</sys_created_on>
+            <sys_id>c2e8feb8db923300a80a196c29961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sampletable</sys_name>
+            <sys_package display_value="sampleApplication" source="x_356615_sampleapp">c8a8be78db923300a80a196c2996195a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sampleApplication">c8a8be78db923300a80a196c2996195a</sys_scope>
+            <sys_update_name>sys_documentation_x_356615_sampleapp_sampletable__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 08:31:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
